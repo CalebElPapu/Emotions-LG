@@ -1,0 +1,17 @@
+body{
+    font-family: 'Pacifico', cursive;
+    background-image: linear-gradient(180deg, #a4e1fd 0, #a9e0ff 4.55%, #afdeff 9.09%, #b6ddff 13.64%, #bedbff 18.18%, #c6d9ff 22.73%, #ced7ff 27.27%, #d6d5ff 31.82%, #ddd2fe 36.36%, #e5d1fb 40.91%, #eccff7 45.45%, #f2cdf2 50%, #f8cced 54.55%, #fccae7 59.09%, #ffc9e1 63.64%, #ffc9db 68.18%, #ffc9d5 72.73%, #ffc9cf 77.27%, #ffc9c9 81.82%, #ffcac3 86.36%, #ffcbbe 90.91%, #ffcdb9 95.45%, #ffceb5 100%);
+}
+
+.heading{
+    background-color:  lightcoral;
+    border-radius: 30px;
+    width: 250px;
+}
+
+#result ,#camera{
+    border: 2px dashed lightcoral;
+    width: 350;
+    height: 300;
+}
+
